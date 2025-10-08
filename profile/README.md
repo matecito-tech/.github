@@ -1,4 +1,4 @@
-<img src="./img/banner.webp" alt="Banner">
+<img src="https://raw.githubusercontent.com/matecito-tech/.github/main/profile/img/banner.webp" alt="Banner" width="100%">
 
 <h1 align="center"> Matecito </h1>
 
