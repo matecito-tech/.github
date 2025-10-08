@@ -1,6 +1,8 @@
-# 🧉 Matecito
+<img src="./img/banner.webp" alt="Banner">
 
-**Soluciones digitales simples, cercanas y a tu medida.**
+<h1 align="center"> Matecito </h1>
+
+**Soluciones digitales simples, cercanas y a tu medida. 🧉**
 
 Matecito es una empresa argentina de desarrollo de software enfocada en brindar herramientas digitales eficientes a negocios locales. Diseñamos y construimos soluciones tecnológicas pensadas para la vida real: claras, ágiles y accesibles.
 
